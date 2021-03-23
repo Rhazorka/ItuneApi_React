@@ -1,0 +1,16 @@
+.ItuneApi .search-container .btn,
+.ItuneApi .search-container input {
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+}
+
+.ItuneApi .search-container .btn {
+	background: #4aa0fb;
+	color: #fff;
+}
+
+.ItuneApi{
+  display: block;
+  width: 85%;
+  text-align: center;
+}
