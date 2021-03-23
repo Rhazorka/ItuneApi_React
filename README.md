@@ -8,6 +8,7 @@ Commencé par cloner le repository puis suivez les étapes qui suivent:
 - A l'aide d'un teminal de commande rendez vous dans le dossier "back"
 - Executer la commande npm install pour les dépendances
 - Executer la commande npm start pour lancer le serveur web Node de la partie back de l'application
+
 source: https://github.com/metasmash/itunes-cors-resolve/tree/master?fbclid=IwAR0Vf8vo6lffsXVWRSukixwuWAUeMB5jEDZdA-zyiKBHfHreCd3q3x35Qog
 
 # Partie Front
